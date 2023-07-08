@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CalebArala
+- 👋 Hi, I’m @CalebArala 
 - 👀 I’m interested in platformers and horror games
 - 🌱 I’m currently learning LUA in roblox and Java at school
 - 💞️ I’m looking to collaborate on programming and game design
